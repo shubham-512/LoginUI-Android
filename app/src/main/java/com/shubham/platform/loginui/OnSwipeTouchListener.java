@@ -1,4 +1,4 @@
-package com.shashank.platform.loginui;
+package com.shubham.platform.loginui;
 
 import android.content.Context;
 import android.view.GestureDetector;
